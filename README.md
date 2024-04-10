@@ -13,6 +13,6 @@
 - DevOps
 - UX/UI Design
 
-🌱 Sempre em busca de novos desafios e oportunidades de crescimento. Vamos codar juntos?
+🌱 Sempre em busca de novos desafios e oportunidades de crescimento.
 
 📫 Entre em contato: igorritter9@gmail.com
